@@ -136,7 +136,7 @@ body {
     border: none;
 }
 
-/*site responsivo*/
+/*site responsivo para mobile*/ 
 @media screen and (max-width: 768px){
     .container {
         display: block;
